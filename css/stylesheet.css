@@ -3,10 +3,13 @@
 }
 
 .profile{
-
-	max-height: 150px;
-	max-width: 150px;
     margin-left: auto;
     margin-right: auto;
-   
+    float: middle;
 }
+
+.resume{
+
+	margin-left: 250px;
+}
+
