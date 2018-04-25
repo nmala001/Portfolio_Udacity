@@ -26,6 +26,23 @@
 	text-align: center;
 }
 
+.facebooktext, .githubtext, .linkedintext{
+                visibility: hidden;
+            }
+
+
+#github:hover ~ .githubtext{
+    visibility: visible;
+    }
+
+ #linkedin:hover ~ .linkedintext{
+    visibility: visible;
+    }
+ #facebook:hover ~ .facebooktext{
+    visibility: visible;
+    }
+
+
 
 
 
