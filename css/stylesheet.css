@@ -13,8 +13,15 @@
 	margin-left: 250px;
 }
 
-.picture{
-  align-items: center;
+.picture img{
+
+  margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+body {
+	margin: 0;
 }
 
 .icons{
@@ -50,6 +57,7 @@
 
  	text-align: justify;
  }
+
 
 
   
