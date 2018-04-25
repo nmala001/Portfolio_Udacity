@@ -58,6 +58,12 @@ body {
  	text-align: justify;
  }
 
+ .navbar-custom {
+    background-color:#000000;
+    color:#ffffff;
+    border-radius:0;
+}
+
 
 
   
