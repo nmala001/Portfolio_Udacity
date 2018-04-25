@@ -13,6 +13,10 @@
 	margin-left: 250px;
 }
 
+.picture{
+  align-items: center;
+}
+
 .icons{
 
 	margin-left: 250px;
@@ -41,6 +45,14 @@
  #facebook:hover ~ .facebooktext{
     visibility: visible;
     }
+
+ .about-text{
+
+ 	text-align: justify;
+ }
+
+
+  
 
 
 
