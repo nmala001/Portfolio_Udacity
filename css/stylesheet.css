@@ -16,8 +16,9 @@
 .picture img{
 
   margin-left: auto;
-	margin-right: auto;
-	display: block;
+  margin-right: auto;
+  display: block;
+  margin-top: 100px;
 }
 
 body {
@@ -62,6 +63,16 @@ body {
     background-color:#000000;
     color:#ffffff;
     border-radius:0;
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   color: white;
+   text-align: center;
 }
 
 
